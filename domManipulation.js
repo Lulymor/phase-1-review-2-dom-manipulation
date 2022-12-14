@@ -2,7 +2,7 @@
  * Step 1 - Declare a variable called "petList".
  * Step 2 - Use .querySelector() to search for the element with the id of 'pet-list' and assign it as the value of the "petList" variable.
  */
-
+let petList = document.querySelector("ol #pet-list");
 /*
  * Your code goes here
  */
